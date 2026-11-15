@@ -10,10 +10,19 @@
 - Using pretrained sentiment analysis models.
 - Connecting Python functions with web interfaces.
 
-**Project:** Built an interactive AI Sentiment Analyzer
-that predicts whether text is Positive or Negative.
+**Project:** Built an interactive AI Sentiment Analyzer that predicts whether text is Positive or Negative.
 
 **Tools:** Python, Google Colab, Gradio, Hugging Face
 
-**Practical Implementation:** 
-Gradio_Sentiment_Analyzer.ipynb
+**Practical Implementation:**  
+[Gradio_Sentiment_Analyzer.ipynb](Gradio_Sentiment_Analyzer.ipynb)
+
+### Output Screenshots
+
+**1. Positive Sentiment 😊**
+
+![Positive Sentiment Output](positive-output.png)
+
+**2. Negative Sentiment 😞**
+
+![Negative Sentiment Output](negative-output.png)
