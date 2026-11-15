@@ -1,0 +1,19 @@
+---
+
+## Day 4: Gradio – AI Sentiment Analyzer 🚀
+
+**Technology:** Gradio + Hugging Face Transformers
+
+**What I Learned:**
+- Introduction to Gradio.
+- Creating interactive AI applications.
+- Using pretrained sentiment analysis models.
+- Connecting Python functions with web interfaces.
+
+**Project:** Built an interactive AI Sentiment Analyzer
+that predicts whether text is Positive or Negative.
+
+**Tools:** Python, Google Colab, Gradio, Hugging Face
+
+**Practical Implementation:** 
+Gradio_Sentiment_Analyzer.ipynb
