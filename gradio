@@ -14,15 +14,16 @@
 
 **Tools:** Python, Google Colab, Gradio, Hugging Face
 
-**Practical Implementation:**  
-[Gradio_Sentiment_Analyzer.ipynb](Gradio_Sentiment_Analyzer.ipynb)
+**Practical Implementation:**
+
+[Gradio Sentiment Analyzer Notebook](Gradio_Sentiment_Analyzer.ipynb)
 
 ### Output Screenshots
 
 **1. Positive Sentiment 😊**
 
-![Positive Sentiment Output](positive-output.png)
+![Positive Output](positive-output.png)
 
 **2. Negative Sentiment 😞**
 
-![Negative Sentiment Output](negative-output.png)
+![Negative Output](negative-output.png)
