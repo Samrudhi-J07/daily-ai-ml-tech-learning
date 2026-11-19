@@ -106,6 +106,16 @@ This repository serves as a record of my continuous learning journey.
 - [ ] Practice technical interview questions.
 - [ ] Expand into advanced AI/ML and GenAI tools.
 
+## 🌟 Recent Implementations
+
+| Technology | What I Built | Repository |
+|---|---|---|
+| Hugging Face | Sentiment Analyzer | [View](./Day-01-HuggingFace/) |
+| Gradio | Interactive AI App | [View](./Day-02-Gradio/) |
+| Semantic Search | Text Similarity Search | [View](./Day-03-Semantic-Search/) |
+| BM25 | Keyword Search Engine | [View](./Day-04-BM25/) |
+| Reranking | Search Result Reranking | [View](./Day-05-Reranking/) |
+
 ## 🎓 My Goal
 
 To become a skilled **AI/ML Engineer** with strong practical knowledge of Machine Learning, Deep Learning, Generative AI, LLMs, RAG, and modern deployment technologies.
@@ -119,3 +129,5 @@ One day, one technology, one step closer to becoming a better engineer! 🚀
 ⭐ If you find this learning journey useful, feel free to explore the repository and follow along!
 
        
+
+
