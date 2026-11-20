@@ -1,6 +1,6 @@
 # 🚀 Daily AI/ML Technology Learning
 
-A hands-on learning journey focused on exploring, understanding, and implementing modern technologies in **Artificial Intelligence, Machine Learning, Data Science, Generative AI, and Data Engineering.**
+A hands-on learning journey focused on exploring, understanding, and implementing modern technologies in **Artificial  Intelligence, Machine Learning, Data Science, Generative AI, and Data Engineering.**
 
 My goal is to learn one new technology at a time, strengthen my practical skills, build mini-projects, and document my progress through consistent hands-on implementation.
 
